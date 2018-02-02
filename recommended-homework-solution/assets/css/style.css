@@ -239,8 +239,7 @@ input[type=submit] {
 }
 
 @media screen and (max-width: 980px) {
-  .main-section {
-    width: 50%;
+ 
 }
 
 @media screen and (max-width: 768px) {
