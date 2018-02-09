@@ -1,5 +1,7 @@
 body {
     background: url("assets/images/Background.gif");
+    background-size: 50%;
+    background-position-y: -150px;
     font-family: Georgia, Times, "Times New Roman", serif;
 }
 h1, h2 {
@@ -31,4 +33,5 @@ p {
 font-size: 12px;
 font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 color: #ccc;
+
 }
