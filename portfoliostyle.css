@@ -1,8 +1,7 @@
 body {
-    background-size: cover;
-    background: url("assets/images/Background.gif") no-repeat center center fixed;
-    /* background-size: 50%;
-    background-position-y: -150px; */
+    background-size: auto contain;
+    /* background: url("assets/images/Background.gif") no-repeat center fixed; */
+    /* background-position-y: -150px; */
     font-family: Georgia, Times, "Times New Roman", serif;
 }
 h1, h2 {
@@ -35,4 +34,8 @@ font-size: 12px;
 font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 color: #ccc;
 
+}
+.pPanel{
+    background-size: auto;
+    background: url("assets/images/Background.gif") no-repeat center;
 }
